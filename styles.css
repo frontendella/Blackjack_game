@@ -1,0 +1,46 @@
+body {
+
+    background-image: url('images/blackjack.jpg');
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 3em;
+}
+#card, #sum, #message-el {
+    font-size: 2em;
+}
+#message-el {
+    font-style: italic;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    background-color: goldenrod;
+    color: #f9f7f8;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 20px;
+    border:black 2px solid;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-bottom: 7px;
+    
+
+}
+.hover:hover{
+    background-color: rgb(245, 188, 43);
+}
+.changeColor{
+    background-color: rgb(206, 202, 191);
+    color: black
+}
