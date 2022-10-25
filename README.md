@@ -1,4 +1,4 @@
-# [Blackjack_game](https://frontendella.github.io/Blackjack_game/)
+# [Blackjack_game](https://frontendella.github.io/Blackjack_game/) 
 
 Blackjack game, once the cards sum 21 a winner message is displayed. While the cards is not 21 a new card will be asked to the player.If cards exceeds 21 a loser message will be displayed.
 
